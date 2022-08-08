@@ -1,4 +1,4 @@
-# Business Card - Bootcamp Santander Android Developer
+# App Repositories - Bootcamp Santander Android Developer
 
 ### Funcionalidades e melhorias
 * Arquitetura robusta MVVM
