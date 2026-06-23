@@ -12,24 +12,19 @@ Através deste app, foi possível explorar na prática o consumo de APIs REST, g
 
 Este projeto foi desenvolvido utilizando **100% Kotlin** e implementa as seguintes tecnologias e padrões de projeto:
 
-* 
-**Arquitetura:** Padrão **MVVM** (Model-View-ViewModel) para uma separação clara de responsabilidades.
+* **Arquitetura:** Padrão **MVVM** (Model-View-ViewModel) para uma separação clara de responsabilidades.
 
 
-* 
-**Injeção de Dependências:** **Koin**.
+* **Injeção de Dependências:** **Koin**.
 
 
-* 
-**Networking:** **Retrofit** para a realização de requisições REST.
+* **Networking:** **Retrofit** para a realização de requisições REST.
 
 
-* 
-**Assincronismo:** **Coroutines** (Corrotinas) para gerenciar threads e chamadas assíncronas de forma eficiente.
+* **Assincronismo:** **Coroutines** (Corrotinas) para gerenciar threads e chamadas assíncronas de forma eficiente.
 
 
-* 
-**Observabilidade e Ciclo de Vida:** **LiveData** e **Componentes da arquitetura do Android**.
+* **Observabilidade e Ciclo de Vida:** **LiveData** e **Componentes da arquitetura do Android**.
 
 
 
